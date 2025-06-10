@@ -65,6 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	  { name: 'Western Avenger', price: '$19,000', discountedPrice: '$7,980', seats: 2, img: 'assets/cruiser/avenger.png' },
 	  { name: 'Western Bagger', price: '$22,000', discountedPrice: '$9,240', seats: 2, img: 'assets/cruiser/bagger.png' },
 	  { name: 'LCC Behemoth', price: '$30,000', discountedPrice: '$12,600', seats: 1, img: 'assets/cruiser/behemoth.png' },
+	  { name: 'Western Calavera', price: '$20,000', discountedPrice: '$8,400', seats: 2, img: 'assets/cruiser/calavera.png' },	
 	  { name: 'Western Carter', price: '$20,000', discountedPrice: '$8,400', seats: 1, img: 'assets/cruiser/carter.png' },
 	  { name: 'Nagasaki Chimera', price: '$20,000', discountedPrice: '$8,400', seats: 1, img: 'assets/cruiser/chimera.png' },
 	  { name: 'Western Cliffhanger', price: '$10,000', discountedPrice: '$4,200', seats: 2, img: 'assets/cruiser/cliffhanger.png' },
